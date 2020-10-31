@@ -1,2 +1,3 @@
-# at_mesh
-TL8269 Mesh AT bridge
+# Telink 私有蓝牙Mesh SDK
+
+开发环境的搭建请参考：https://github.com/Ai-Thinker-Open/Telink_825X_SDK
