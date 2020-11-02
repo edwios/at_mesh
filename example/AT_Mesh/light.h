@@ -100,7 +100,7 @@ extern "C" {
 #define UART_ENABLE             1
 #if(UART_ENABLE)
 #define UART_TX_PIN		UART_TX_PB1
-#define UART_RX_PIN 	UART_RX_PB7
+#define UART_RX_PIN 	UART_RX_PA0
 #endif
 
 #define ADC_ENABLE 			0
